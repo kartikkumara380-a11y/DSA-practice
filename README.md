@@ -7,6 +7,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -15,4 +16,8 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0001-two-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
