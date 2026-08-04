@@ -20,6 +20,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | [0001-two-sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
+| [1796-second-largest-digit-in-a-string](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/1796-second-largest-digit-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | ------- |
 | [0242-valid-anagram](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
+| [1796-second-largest-digit-in-a-string](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
