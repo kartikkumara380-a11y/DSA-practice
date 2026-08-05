@@ -14,6 +14,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,8 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
