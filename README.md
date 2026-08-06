@@ -8,6 +8,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | ------- |
 | [0009-palindrome-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0326-power-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -15,6 +16,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | ------- |
 | [0001-two-sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +61,5 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
