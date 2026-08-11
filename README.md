@@ -16,6 +16,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | ------- |
 | [0001-two-sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -40,6 +41,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
@@ -62,6 +64,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
