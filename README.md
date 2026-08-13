@@ -21,6 +21,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
