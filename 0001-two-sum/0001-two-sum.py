@@ -1,16 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        num_map = {}  
-        for i, num in enumerate(nums):
-            complement = target - num
-            if complement in num_map:
-                return [num_map[complement], i]
-            num_map[num] = i
-
-# Test the function
-nums = [2, 7, 11, 15]
-target = 9
-
-sol = Solution()
-result = sol.twoSum(nums, target)
-print("Indices of numbers that add up to target:", result)
+        n = len(nums)
+        for i in range(0,n):
+            for j in range(i+1,n):
+                if nums[i] + nums[j] == target:
+                    return [i,j]
+                else:
+                    j+=1
+            i+=1
