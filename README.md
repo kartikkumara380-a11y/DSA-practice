@@ -19,6 +19,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | [0001-two-sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0283-move-zeroes) |
@@ -81,4 +82,8 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
