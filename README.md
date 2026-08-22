@@ -24,6 +24,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | [0088-merge-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,4 +88,8 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
