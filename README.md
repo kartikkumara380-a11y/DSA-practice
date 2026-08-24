@@ -20,6 +20,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -92,4 +94,8 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
