@@ -6,6 +6,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0050-powx-n) |
@@ -38,6 +39,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0326-power-of-three) |
 ## String
@@ -98,4 +100,8 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
