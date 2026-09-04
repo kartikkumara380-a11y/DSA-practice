@@ -19,6 +19,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | ------- |
 | [0001-two-sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
@@ -95,6 +96,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -104,4 +106,8 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
