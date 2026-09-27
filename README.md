@@ -9,6 +9,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | [0002-add-two-numbers](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
@@ -19,6 +20,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | ------- |
 | [0001-two-sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -109,5 +111,6 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
