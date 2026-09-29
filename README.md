@@ -19,6 +19,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0054-spiral-matrix) |
@@ -55,6 +56,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
@@ -78,6 +80,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
