@@ -21,6 +21,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | [0001-two-sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0088-merge-sorted-array) |
@@ -89,6 +90,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
