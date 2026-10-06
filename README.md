@@ -11,6 +11,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | [0009-palindrome-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0326-power-of-three) |
@@ -99,6 +100,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -118,4 +120,16 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | ------- |
 | [0048-rotate-image](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0054-spiral-matrix) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
