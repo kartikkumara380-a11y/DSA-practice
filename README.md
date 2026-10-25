@@ -31,6 +31,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -62,6 +63,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | [0088-merge-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
@@ -70,6 +72,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -93,6 +96,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | ------- |
 | [0035-search-insert-position](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,6 +124,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | ------- |
 | [0048-rotate-image](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0054-spiral-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Tree
 |  |
 | ------- |
