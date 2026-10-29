@@ -39,6 +39,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | ------- |
 | [0001-two-sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -88,6 +89,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 | [0015-3sum](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -119,6 +121,7 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0141-linked-list-cycle) |
 ## Matrix
 |  |
 | ------- |
@@ -137,4 +140,8 @@ Structured solutions to Data Structures and Algorithms problems with explanation
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0096-unique-binary-search-trees) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/kartikkumara380-a11y/DSA-practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
